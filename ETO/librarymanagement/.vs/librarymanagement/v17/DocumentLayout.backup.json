@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\librarymanagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50004A3D-4359-42F2-B4BA-57C659C94CF7}|librarymanagement\\librarymanagement.csproj|c:\\users\\user\\source\\repos\\librarymanagement\\librarymanagement\\view\\admivview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50004A3D-4359-42F2-B4BA-57C659C94CF7}|librarymanagement\\librarymanagement.csproj|solutionrelative:librarymanagement\\view\\admivview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50004A3D-4359-42F2-B4BA-57C659C94CF7}|librarymanagement\\librarymanagement.csproj|c:\\users\\user\\source\\repos\\librarymanagement\\librarymanagement\\view\\admivview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50004A3D-4359-42F2-B4BA-57C659C94CF7}|librarymanagement\\librarymanagement.csproj|solutionrelative:librarymanagement\\view\\admivview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50004A3D-4359-42F2-B4BA-57C659C94CF7}|librarymanagement\\librarymanagement.csproj|c:\\users\\user\\source\\repos\\librarymanagement\\librarymanagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50004A3D-4359-42F2-B4BA-57C659C94CF7}|librarymanagement\\librarymanagement.csproj|solutionrelative:librarymanagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50004A3D-4359-42F2-B4BA-57C659C94CF7}|librarymanagement\\librarymanagement.csproj|C:\\Users\\User\\source\\repos\\librarymanagement\\librarymanagement\\view\\signupview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50004A3D-4359-42F2-B4BA-57C659C94CF7}|librarymanagement\\librarymanagement.csproj|solutionrelative:librarymanagement\\view\\signupview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50004A3D-4359-42F2-B4BA-57C659C94CF7}|librarymanagement\\librarymanagement.csproj|C:\\Users\\User\\source\\repos\\librarymanagement\\librarymanagement\\view\\signupview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50004A3D-4359-42F2-B4BA-57C659C94CF7}|librarymanagement\\librarymanagement.csproj|solutionrelative:librarymanagement\\view\\signupview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50004A3D-4359-42F2-B4BA-57C659C94CF7}|librarymanagement\\librarymanagement.csproj|C:\\Users\\User\\source\\repos\\librarymanagement\\librarymanagement\\interface\\isignupview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50004A3D-4359-42F2-B4BA-57C659C94CF7}|librarymanagement\\librarymanagement.csproj|solutionrelative:librarymanagement\\interface\\isignupview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50004A3D-4359-42F2-B4BA-57C659C94CF7}|librarymanagement\\librarymanagement.csproj|C:\\Users\\User\\source\\repos\\librarymanagement\\librarymanagement\\presenter\\loginpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50004A3D-4359-42F2-B4BA-57C659C94CF7}|librarymanagement\\librarymanagement.csproj|solutionrelative:librarymanagement\\presenter\\loginpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50004A3D-4359-42F2-B4BA-57C659C94CF7}|librarymanagement\\librarymanagement.csproj|c:\\users\\user\\source\\repos\\librarymanagement\\librarymanagement\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50004A3D-4359-42F2-B4BA-57C659C94CF7}|librarymanagement\\librarymanagement.csproj|solutionrelative:librarymanagement\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50004A3D-4359-42F2-B4BA-57C659C94CF7}|librarymanagement\\librarymanagement.csproj|c:\\users\\user\\source\\repos\\librarymanagement\\librarymanagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50004A3D-4359-42F2-B4BA-57C659C94CF7}|librarymanagement\\librarymanagement.csproj|solutionrelative:librarymanagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50004A3D-4359-42F2-B4BA-57C659C94CF7}|librarymanagement\\librarymanagement.csproj|C:\\Users\\User\\source\\repos\\librarymanagement\\librarymanagement\\presenter\\signuppresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50004A3D-4359-42F2-B4BA-57C659C94CF7}|librarymanagement\\librarymanagement.csproj|solutionrelative:librarymanagement\\presenter\\signuppresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50004A3D-4359-42F2-B4BA-57C659C94CF7}|librarymanagement\\librarymanagement.csproj|C:\\Users\\User\\source\\repos\\librarymanagement\\librarymanagement\\interface\\iloginview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50004A3D-4359-42F2-B4BA-57C659C94CF7}|librarymanagement\\librarymanagement.csproj|solutionrelative:librarymanagement\\interface\\iloginview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50004A3D-4359-42F2-B4BA-57C659C94CF7}|librarymanagement\\librarymanagement.csproj|c:\\users\\user\\source\\repos\\librarymanagement\\librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50004A3D-4359-42F2-B4BA-57C659C94CF7}|librarymanagement\\librarymanagement.csproj|solutionrelative:librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SignupPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\librarymanagement\\librarymanagement\\Presenter\\SignupPresenter.cs",
+              "RelativeDocumentMoniker": "librarymanagement\\Presenter\\SignupPresenter.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\librarymanagement\\librarymanagement\\Presenter\\SignupPresenter.cs",
+              "RelativeToolTip": "librarymanagement\\Presenter\\SignupPresenter.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T01:30:14.244Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\librarymanagement\\librarymanagement\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "librarymanagement\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\librarymanagement\\librarymanagement\\Form1.Designer.cs",
+              "RelativeToolTip": "librarymanagement\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T00:50:23.352Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\librarymanagement\\librarymanagement\\Form1.cs",
+              "RelativeDocumentMoniker": "librarymanagement\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\librarymanagement\\librarymanagement\\Form1.cs [Design]",
+              "RelativeToolTip": "librarymanagement\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T00:50:31.727Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdmivView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\librarymanagement\\librarymanagement\\View\\AdmivView.cs",
+              "RelativeDocumentMoniker": "librarymanagement\\View\\AdmivView.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\librarymanagement\\librarymanagement\\View\\AdmivView.cs [Design]",
+              "RelativeToolTip": "librarymanagement\\View\\AdmivView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T02:12:44.369Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdmivView.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\librarymanagement\\librarymanagement\\View\\AdmivView.cs",
+              "RelativeDocumentMoniker": "librarymanagement\\View\\AdmivView.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\librarymanagement\\librarymanagement\\View\\AdmivView.cs",
+              "RelativeToolTip": "librarymanagement\\View\\AdmivView.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAIA7wCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T06:23:44.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\librarymanagement\\librarymanagement\\Form1.cs",
+              "RelativeDocumentMoniker": "librarymanagement\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\librarymanagement\\librarymanagement\\Form1.cs",
+              "RelativeToolTip": "librarymanagement\\Form1.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAApwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T01:04:00.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\librarymanagement\\librarymanagement\\Program.cs",
+              "RelativeDocumentMoniker": "librarymanagement\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\librarymanagement\\librarymanagement\\Program.cs",
+              "RelativeToolTip": "librarymanagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T02:05:49.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SignupView.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\librarymanagement\\librarymanagement\\View\\SignupView.cs",
+              "RelativeDocumentMoniker": "librarymanagement\\View\\SignupView.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\librarymanagement\\librarymanagement\\View\\SignupView.cs",
+              "RelativeToolTip": "librarymanagement\\View\\SignupView.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwB0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T01:46:20.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignupView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\librarymanagement\\librarymanagement\\View\\SignupView.cs",
+              "RelativeDocumentMoniker": "librarymanagement\\View\\SignupView.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\librarymanagement\\librarymanagement\\View\\SignupView.cs [Design]",
+              "RelativeToolTip": "librarymanagement\\View\\SignupView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T01:45:10.184Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISignUpView.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\librarymanagement\\librarymanagement\\Interface\\ISignUpView.cs",
+              "RelativeDocumentMoniker": "librarymanagement\\Interface\\ISignUpView.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\librarymanagement\\librarymanagement\\Interface\\ISignUpView.cs",
+              "RelativeToolTip": "librarymanagement\\Interface\\ISignUpView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T01:28:11.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ILoginView.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\librarymanagement\\librarymanagement\\Interface\\ILoginView.cs",
+              "RelativeDocumentMoniker": "librarymanagement\\Interface\\ILoginView.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\librarymanagement\\librarymanagement\\Interface\\ILoginView.cs",
+              "RelativeToolTip": "librarymanagement\\Interface\\ILoginView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T01:27:12.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\librarymanagement\\librarymanagement\\Presenter\\LoginPresenter.cs",
+              "RelativeDocumentMoniker": "librarymanagement\\Presenter\\LoginPresenter.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\librarymanagement\\librarymanagement\\Presenter\\LoginPresenter.cs",
+              "RelativeToolTip": "librarymanagement\\Presenter\\LoginPresenter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T04:37:02.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
